@@ -4,7 +4,7 @@ Shell script to install a [POSQ Masternode](https://posq.io/) on a Linux server 
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Posq/master/posq_install.sh
+wget -q https://github.com/Poseidon-POSQ/POSQ-MN-Script/blob/master/posq_install.sh
 bash posq_install.sh
 ```
 ***
