@@ -58,7 +58,7 @@ systemctl is-enabled POSQ #To check if POSQ service is enabled on boot
 
 ## Donations
 
-Any donation is highly appreciated
+Created by @ Zoldur, donate to them below 
 
 **POSQ**: QQeS5kJWi56MnNbE9NSULiAHRD8aiHHs47  
 **BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
